@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Inicio from './components/HelloWorld.vue'
 import Cargar from './components/cargar_archivos.vue'
+import Editar from './components/Editardescripcion.vue'
+
 
 const routes = [
   {
@@ -12,6 +14,11 @@ const routes = [
     path: '/carga',
     name: 'Cargar',
     component: Cargar
+  },
+  {
+    path: '/editar',
+    name: 'Editar',
+    component: Editar
   },
 ]
 

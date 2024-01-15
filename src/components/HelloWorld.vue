@@ -131,14 +131,14 @@
             <td class="column6 style3 s"><button @click="mostrarImagenes(20)" type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal"><i class="fas fa-images"></i></button></td>
           </tr>
           <tr class="row22">
-            <td class="column0 style23 s style28" colspan="3" rowspan="4">2. SOFTWARE DE AUTOMATIZACION DE AULAS <i @click="verObservacion('Item 21')" style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
+            <td class="column0 style23 s style28" colspan="3" rowspan="4">2. SOFTWARE DE AUTOMATIZACION DE AULAS </td>
             <td class="column3 style29 n style30" colspan="2">21</td>
-            <td class="column5 style7 s">&nbsp;- HARDWARE DE AUTOMATIZACION PARA CADA AULA DE CLASES <i style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
+            <td class="column5 style7 s">&nbsp;- HARDWARE DE AUTOMATIZACION PARA CADA AULA DE CLASES <i @click="verObservacion('Item 21')" style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
             <td class="column6 style3 s"><button @click="mostrarImagenes(21)" type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal"><i class="fas fa-images"></i></button></td>
           </tr>
           <tr class="row23">
             <td class="column3 style29 n style30" colspan="2">22</td>
-            <td class="column5 style8 s">&nbsp;- OBRA CIVIL, ADAPTACION Y RESANE DE PAREDES. <i @click="verObservacion('Item 22')" style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
+            <td class="column5 style7 s">&nbsp;- OBRA CIVIL, ADAPTACION Y RESANE DE PAREDES. <i @click="verObservacion('Item 22')" style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
             <td class="column6 style3 s"><button @click="mostrarImagenes(22)" type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal"><i class="fas fa-images"></i></button></td>
           </tr>
           <tr class="row24">
@@ -148,7 +148,7 @@
           </tr>
           <tr class="row25">
             <td class="column3 style29 n style30" colspan="2">11</td>
-            <td class="column5 style10 s">&nbsp;- LICENCIA DE SOFTWARE INTEGRAL DE VERIFICACION DE CUMPLIMIENTO DE HORARIOS DOCENTES Y ADMINISTRATIVOS <i @click="verObservacion('Item 24')" style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
+            <td class="column5 style10 s">&nbsp;- LICENCIA DE SOFTWARE INTEGRAL DE VERIFICACION DE CUMPLIMIENTO DE HORARIOS DOCENTES Y ADMINISTRATIVOS <i @click="verObservacion('Item 11')" style="color:rgb(53, 150, 235); font-weight: bold; cursor: pointer;" class="far fa-question-circle"></i></td>
             <td class="column6 style3 s"><button @click="mostrarImagenes(11)" type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal"><i class="fas fa-images"></i></button></td>
           </tr>
           <tr class="row26">

@@ -3,6 +3,8 @@
         <div class="row">
             <div class="col-lg-2"></div>
             <div class="col-lg-8" style="background-color: #afc1d1;border-radius: 27px;padding: 30px;">
+                <br>
+                <h3 style="width: 100%; text-align: right"><a class="btn btn-warning" href="/editar">Editar Items Guardados</a></h3>
                 <br><br>
                 <h1 style="width: 100%; text-align:center">CARGA DE ARCHIVOS</h1>
                 <hr>
